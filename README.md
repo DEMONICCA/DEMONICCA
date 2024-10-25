@@ -23,7 +23,7 @@
 <div align=center>
 <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=DEMONICCA&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
 <hr/>
-<img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DEMONNICA&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
+<img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DEMONICCA&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
 <br/>
 <hr/>
 <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DEMONICCA&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
