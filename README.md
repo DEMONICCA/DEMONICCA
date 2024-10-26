@@ -19,7 +19,8 @@
 <hr/>
 
 ###
-<h2 align="center">⚡ STATS ⚡</h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> STATS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /></h2>
+
 <br>
 <div align=center>
 <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=DEMONICCA&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
