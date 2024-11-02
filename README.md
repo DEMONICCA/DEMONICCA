@@ -13,16 +13,16 @@
 <h2><img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="30" /> TITID TITID TAN <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="30" /></h2>
 
 ![snake_gif](https://github.com/DEMONICCA/DEMONICCA/blob/output/only-svg/github-contribution-grid-snake-dark.svg)
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
-</div>
 <hr/>
 
 ###
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> STATS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /></h2>
 
-<br>
+<br/>
 <div align=center>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
+</div>
 <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=DEMONICCA&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
 <hr/>
 <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DEMONICCA&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
