@@ -3,10 +3,10 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=10/10&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ILLUMI!;" />
 </h1>
-<h3 align="center">A passionate software developer from the Dark continent 💀</h3>
+<h3 align="center">A passionate software developer from the Dark continent.</h3>
 
 ![Logo](https://github.com/DEMONICCA/DEMONICCA/blob/main/Logo.jpg?raw=true)
-<h5 align="center"> This world is very dark, but in heaven there is no darkness. <hr/>
+<h5 align="center">This world is very dark, but in heaven there is no darkness. <hr/>
 
 ###
 <div align="center">
