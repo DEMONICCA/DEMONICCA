@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/visitors-👁️%209999+-black?style=flat-square&logo=github&logoColor=white&labelColor=14141F&color=000000" alt="Visitors badge" width="120"/>
+<img src="https://img.shields.io/badge/visitors-👁️%20999999+-black?style=flat-square&logo=github&logoColor=white&labelColor=14141F&color=000000" alt="Visitors badge" width="120"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=FF0066&center=true&vCenter=true&width=900&height=70&lines=DEMONICA;+😈" />
 
